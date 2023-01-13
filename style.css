@@ -18,9 +18,17 @@
     margin-bottom: 0;
 }
 
+#name:hover {
+    color: #00B2CA;
+}
+
 #title {
     text-align: center;
     color: #00B2CA;
+}
+
+#title:hover {
+    color: #1D4E89;
 }
 
 #tagline {
