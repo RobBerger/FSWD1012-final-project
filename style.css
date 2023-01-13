@@ -73,6 +73,8 @@
 #randomAdvice {
     text-align: center;
     background-color: #7DCFB6;
+    margin-bottom: fill;
+    padding: auto;
 }
 
 #randomAdvice h3 {
