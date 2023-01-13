@@ -1,16 +1,15 @@
 .no-gutters {
     margin-right: 0;
     margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
   
-    > .col,
-    > [class*="col-"] {
-      padding-right: 0;
-      padding-left: 0;
-    }
-  }
 
 #banner {
     background-color: #FBD1A2;
+    padding: 0;
+    margin: 0;
 }
 
 #name {
@@ -22,4 +21,17 @@
 #title {
     text-align: center;
     color: #00B2CA;
+}
+
+#tagline {
+    text-align: center;
+    color: #1D4E89;
+}
+
+#profilepic {
+    padding: 0;
+}
+
+#lowerspan {
+    padding: 0;
 }
