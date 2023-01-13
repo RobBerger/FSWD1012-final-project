@@ -73,15 +73,21 @@
 #randomAdvice {
     text-align: center;
     background-color: #7DCFB6;
-    margin-bottom: fill;
-    padding: auto;
+    margin: 0;
+    padding: 0;
 }
 
 #randomAdvice h3 {
     color:#1D4E89;
+
 }
 
 #randomAdvice p {
     color:#1D4E89;
     font-weight: bold;
+}
+
+footer {
+    margin: 0;
+    padding: 0;
 }
