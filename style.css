@@ -69,3 +69,17 @@
     background-color: #FBD1A2;
     font-weight: bold;
 }
+
+#randomAdvice {
+    text-align: center;
+    background-color: #7DCFB6;
+}
+
+#randomAdvice h3 {
+    color:#1D4E89;
+}
+
+#randomAdvice p {
+    color:#1D4E89;
+    font-weight: bold;
+}
