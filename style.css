@@ -13,10 +13,13 @@
     background-color: #FBD1A2;
 }
 
-#name h1 {
-    float: right;
+#name {
+    text-align: center;
+    color: #1D4E89;
+    margin-bottom: 0;
 }
 
-#title h3 {
-    float: right;
+#title {
+    text-align: center;
+    color: #00B2CA;
 }
