@@ -1,0 +1,22 @@
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  
+    > .col,
+    > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
+#banner {
+    background-color: #FBD1A2;
+}
+
+#name h1 {
+    float: right;
+}
+
+#title h3 {
+    float: right;
+}
