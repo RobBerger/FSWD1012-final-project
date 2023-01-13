@@ -43,4 +43,24 @@
 #lowerspan {
     padding: 0;
     margin: 0;
+    color: #F79256;
+    background-color: #1D4E89;
+    text-align: center;
+}
+
+#lowerspan h2 {
+    padding-top: 25px;
+}
+
+#lowerspan ul {  
+    list-style-type: none;
+    padding: 0; 
+} 
+
+#lowerspan li {
+    padding: 1px;
+    border: solid 2px #1D4E89;
+    border-radius: 5px;
+    color: #1D4E89;
+    background-color: #FBD1A2;
 }
